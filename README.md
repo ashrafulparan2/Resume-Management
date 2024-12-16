@@ -1,8 +1,5 @@
 # Resume Management
 
-## YouTube Tutorial
-https://www.youtube.com/watch?v=AiwzQMupPsU
-
 ## Solution Technologies
 
 -  Asp.Net Core (.NET 7.0)
